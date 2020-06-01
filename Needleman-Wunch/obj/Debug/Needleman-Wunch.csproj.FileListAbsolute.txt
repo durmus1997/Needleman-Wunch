@@ -1,0 +1,7 @@
+C:\Users\Durmuş\source\repos\Needleman-Wunch\Needleman-Wunch\bin\Debug\Needleman-Wunch.exe.config
+C:\Users\Durmuş\source\repos\Needleman-Wunch\Needleman-Wunch\bin\Debug\Needleman-Wunch.exe
+C:\Users\Durmuş\source\repos\Needleman-Wunch\Needleman-Wunch\bin\Debug\Needleman-Wunch.pdb
+C:\Users\Durmuş\source\repos\Needleman-Wunch\Needleman-Wunch\obj\Debug\Needleman-Wunch.csprojAssemblyReference.cache
+C:\Users\Durmuş\source\repos\Needleman-Wunch\Needleman-Wunch\obj\Debug\Needleman-Wunch.csproj.CoreCompileInputs.cache
+C:\Users\Durmuş\source\repos\Needleman-Wunch\Needleman-Wunch\obj\Debug\Needleman-Wunch.exe
+C:\Users\Durmuş\source\repos\Needleman-Wunch\Needleman-Wunch\obj\Debug\Needleman-Wunch.pdb
